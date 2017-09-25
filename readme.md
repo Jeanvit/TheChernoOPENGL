@@ -3,7 +3,7 @@ This is my Eclipse CDT implementation of the amazing [TheCherno's OpenGL series]
 
 ## More about TheCherno
 
-Youtube: https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw 
+Youtube: https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw
 Patreon: https://patreon.com/thecherno
 Twitter: https://twitter.com/thecherno
 Instagram: https://instagram.com/thecherno
