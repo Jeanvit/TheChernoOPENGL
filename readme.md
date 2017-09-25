@@ -14,6 +14,3 @@ Discord: https://thecherno.com/discord
 - Code implemented on Eclipse IDE for C/C++ Developers Version: Neon.3 Release (4.6.3)
 
 
-
-
-https://github.com/Jeanvit/TheChernoOPENGL.git
