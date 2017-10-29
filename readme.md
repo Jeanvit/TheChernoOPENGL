@@ -1,7 +1,7 @@
 # About 
-This is my Eclipse CDT implementation of the amazing [TheCherno's OpenGL series](https://www.youtube.com/watch?v=W3gAzLwfIP0&list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2). I'll implement the code as soon as I can, each time a new video is uploaded by him.
+This is my Eclipse CDT implementation of [TheCherno's OpenGL series](https://www.youtube.com/watch?v=W3gAzLwfIP0&list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2). I'll implement the code as soon as I can, each time a new video is uploaded by him.
 
-## More about TheCherno
+### More about TheCherno
 
 Youtube: https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw
 
