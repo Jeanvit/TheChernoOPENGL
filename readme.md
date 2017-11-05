@@ -5,12 +5,6 @@ This is my Eclipse CDT implementation of [TheCherno's OpenGL series](https://www
 
 Youtube: https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw
 
-Patreon: https://patreon.com/thecherno
-
-Twitter: https://twitter.com/thecherno
-
-Instagram: https://instagram.com/thecherno
-
 Discord: https://thecherno.com/discord
 
 # How to use
