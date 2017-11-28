@@ -144,7 +144,7 @@ int main(void)
     unsigned int ibo;
     GLCall(glGenBuffers(1,&ibo));
     GLCall(glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, ibo));
-    GLCall(glBufferData(GL_ELEMENT_ARRAY_BUFFER,6*sizeof(unsigned int), indices, GL_STATIC_DRAW));
+    GLCall(glBufferData(GL_ELEMENT_ARRAY_BUFFER,4*sizeof(unsigned int), indices, GL_STATIC_DRAW));
 
     ShaderProgramSource source = parseShader("res/shaders/basic.shader");
     cout<<"VERTEX" <<endl;
