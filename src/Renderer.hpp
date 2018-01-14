@@ -19,10 +19,7 @@ using std::string;
 	x;\
 	ASSERT(GLLogCall(#x, __FILE__, __LINE__))
 
-struct ShaderProgramSource{
-	std::string VertexSource;
-	std::string FragmentSource;
-};
+
 
 void GLClearError();
 bool GLLogCall(const char *function, const char *file, int line);
