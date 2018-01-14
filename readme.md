@@ -8,7 +8,7 @@ Youtube: https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw
 Discord: https://thecherno.com/discord
 
 # How to use
-- Just clone and open as a project in your Eclipse.
+- Just clone and open as a project in Eclipse.
 - Code implemented on Eclipse IDE for C/C++ Developers Version: Neon.3 Release (4.6.3)
 
 
