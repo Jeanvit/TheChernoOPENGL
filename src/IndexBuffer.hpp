@@ -5,7 +5,7 @@
  *      Author: Casa
  */
 
-#ifndef SRC_INDEXUFFER_HPP_
+#ifndef SRC_INDEXBUFFER_HPP_
 #define SRC_INDEXBUFFER_HPP_
 
 class IndexBuffer{

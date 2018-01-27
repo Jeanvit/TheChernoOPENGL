@@ -1,7 +1,8 @@
 #ifndef SRC_VERTEXARRAY_HPP_
 #define SRC_VERTEXARRAY_HPP_
 #include "VertexBuffer.hpp"
-#include "VertexBufferLayout.hpp"
+
+class VertexBufferLayout;
 
 class VertexArray{
 private:
