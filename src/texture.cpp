@@ -5,7 +5,7 @@
  *      Author: Casa
  */
 #include "texture.hpp"
-#include "vendor/stb_image/stb_image.hpp"
+#include "stb_image/stb_image.hpp"
 
 Texture::Texture(const std::string& path)
 	: m_RendererID(0), m_FilePath(path), m_LocalBuffer(nullptr), m_Width(0), m_Height(0), m_BPP(0){

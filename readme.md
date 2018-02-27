@@ -8,7 +8,8 @@ Youtube: https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw
 Discord: https://thecherno.com/discord
 
 # How to use
-- Just clone and open as a project in Eclipse.
+- Install [MinGW-w64](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/7.2.0/threads-posix/seh/x86_64-7.2.0-release-posix-seh-rt_v5-rev1.7z/download)
+- Clone or download this repository and open as a project in Eclipse
 - Code implemented on Eclipse IDE for C/C++ Developers Version: Neon.3 Release (4.6.3)
 
 
